@@ -26,6 +26,7 @@
 
 ecommerce-analysis-project/
 │
+
 ├── data/                     # Данные
 │   ├── raw/                  # Сырые CSV-файлы
 │   └── processed/            # Очистка и агрегаты
